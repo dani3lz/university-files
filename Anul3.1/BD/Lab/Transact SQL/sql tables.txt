@@ -1,0 +1,28 @@
+CREATE TABLE Editura (
+EdituraID int NOT NULL PRIMARY KEY,
+Denumirea varchar(255) NOT NULL,
+Orasul varchar(255) NOT NULL,
+Tara varchar(255) NOT NULL
+);
+
+CREATE TABLE Autori (
+AutorID int NOT NULL PRIMARY KEY,
+Numele varchar(255) NOT NULL,
+Prenumele varchar(255) NOT NULL,
+Genul varchar(255) NOT NULL,
+AnulNasterii int NOT NULL,
+);
+
+CREATE TABLE Carti (
+BookID int NOT NULL PRIMARY KEY,
+Titlu varchar(255) NOT NULL,
+AutorID int NOT NULL FOREIGN KEY REFERENCES Autori(AutorID),
+EdituraID int NOT NULL FOREIGN KEY REFERENCES Editura(EdituraID),
+ISBN bigint NOT NULL,
+Anul int NOT NULL,
+Pagini int NOT NULL,
+Pretul float
+);
+
+
+

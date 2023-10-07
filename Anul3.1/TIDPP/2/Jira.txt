@@ -1,0 +1,27 @@
+1) Ce este Jira Software ?
+-Jira este un software ce permite urmarirea erorilor si gestionarea proiectelor in mod agile
+2)Paradigme si modele de dezvoltare software ?
+-Waterfall(faze la care nu se mai intoarce, totul merge doar inainte)
+-Iterative(o problema mare se transforma in mai multe mici)
+-Spiral
+-Agile
+3)Ce este Agile Software Development ?
+-un set de metode si practici unde rezultatele sunt obtinute in urma lucrului in echipa
+Plan->Implimentarea->Test->Review
+4)Diferenta dintre Agile si Waterfall
+-la waterfall nu se intoarce inapoi si nu se fac modificari pe cand la agile se fac schimbari
+5)Tipurile de probleme(issues) in Jira Software
+-Epic,Story,Task,Bug
+6)Diferenta dintre Epic si User Story
+-Epic e full abstract si serveste ca o ideie generala cam ce ar trebui sa reprezinte produsul final
+-User story e mai concret si contine o sarcina mai exacta, din user story se pot face task-uri
+7)Diferenta dintre User Story si Task
+-Task-urile sunt sarcini concrete si concise, ele reprezinta ceva foarte clar si scurt(ex. Implement X API)
+8)Rolul unui Sprint in Jira Software
+-Sprint-ul reprezinta un interval de timp in decursul caruia trebuie indeplinite Epic-ul si dupa care se face review
+9)Pentru ce se utilizeaza Backlog in Jira Software
+-Backlog-ul reprezinta o lista cu sarcini ce urmeaza a fi efectuate, aici poate fi organizat sprint-ul, se da start la alt sprint
+se creaza task-uri noi etc.
+10)Pentru ce este nevoie de Story Points
+-Story Points servesc ca o estimarea a complexitatii task-ului. Ele reprezinta +- timpul necesar pentru efectuarea
+a ceva

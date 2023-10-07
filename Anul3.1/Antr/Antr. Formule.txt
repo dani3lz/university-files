@@ -1,0 +1,34 @@
+_______________________________________________________________________________
+
+Costuri fixe (Cheltuieli de perioada) = Cheltuieli curente fixe + Uzura tehnicii + Cheltuieli initiale
+Costuri variabile = Costurile care se schimba in fiecare luna (instabile)
+
+Profit = Venit - Costuri fixe totale
+
+MC unitar (Costul de vanzari) = Venit - Costuri variabil
+MC = Profit (Venituri din vanzari) - Costuri variabile
+Rata MC = Profit / Venit
+PR = Costuri Fixe / Rata MC (venitul de vanzari minimal anul)
+Impozit pe venit = Profit * 0.12 (12%)
+
+Salariu Final = [Salariu Brut * 0.24 (24% Asigurari sociale)] + Salariu Brut
+Salariu Brut = care il primesti la laba
+Salariu final = care este scris in CIM
+
+160 lei pe an - taxa de amenajare pe teren
+
+Norma de uzura = 100 / Ani de recuperare
+Uzura tehnicii = (Cost fix total * Norma de uzura) / 100
+
+_______________________________________________________________________________
+
+Profit operațional pânăp la impozitare (Profit) = Profitul brut (Venit) - Cheltuieli de perioada (Costuri fixe totale)
+Impozit pe venit (12%) = Profit operațional până la impozitare * 0.12 (12%)
+Profit net = Profit operațional pânăp la impozitare * 0.88 (88% = 100% - Impozitul pe venit (12%))
+Dividentele = Profit net * 0.94 (94% = 100% - Impozit pe dividende (6%))
+
+_______________________________________________________________________________
+
+Cheltuieli totale (NU SE FOLOSESTE IN CALCULE) = Cheltuieli de inițiere + 
++ Cheltuieli pentru procurarea activelor imobile + Cheltuieli curente
+_______________________________________________________________________________

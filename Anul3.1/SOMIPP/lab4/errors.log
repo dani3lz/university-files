@@ -1,0 +1,471 @@
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.000000] BIOS-e820: [mem 0x00000000dfff0000-0x00000000dfffffff] ACPI data
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.091299] ACPI: Early table checksum verification disabled
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.091312] ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.091316] ACPI: XSDT 0x00000000DFFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.091321] ACPI: FACP 0x00000000DFFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.091327] ACPI: DSDT 0x00000000DFFF0470 002325 (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.091330] ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.091334] ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.091337] ACPI: APIC 0x00000000DFFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.091340] ACPI: SSDT 0x00000000DFFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.091349] ACPI: Local APIC address 0xfee00000
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.185491] ACPI: PM-Timer IO Port: 0x4008
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.185494] ACPI: Local APIC address 0xfee00000
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.185551] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.185552] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.185554] ACPI: IRQ0 used by override.
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.185555] ACPI: IRQ9 used by override.
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.185557] Using ACPI (MADT) for SMP configuration information
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.279578] ACPI: Core revision 20190816
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.401315] ACPI: bus type PCI registered
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.401316] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.403579] ACPI: Added _OSI(Module Device)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.403580] ACPI: Added _OSI(Processor Device)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.403580] ACPI: Added _OSI(3.0 _SCP Extensions)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.403581] ACPI: Added _OSI(Processor Aggregator Device)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.403582] ACPI: Added _OSI(Linux-Dell-Video)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.403583] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.403583] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.406114] ACPI: 2 ACPI AML tables successfully acquired and loaded
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.408440] ACPI: Interpreter enabled
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.408450] ACPI: (supports S0 S5)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.408460] ACPI: Using IOAPIC for interrupt routing
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.408728] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.408846] ACPI: Enabled 2 GPEs in block 00 to 07
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.414486] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.466473] pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.474458] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.474791] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.474907] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.475022] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.475557] ACPI: bus type USB registered
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.477240] PCI: Using ACPI for IRQ routing
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.497177] pnp: PnP ACPI init
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.497240] pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.497317] pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.498152] pnp: PnP ACPI: found 2 devices
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.981538] ACPI: AC Adapter [AC] (on-line)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.981654] ACPI: Power Button [PWRF]
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.981781] ACPI: Sleep Button [SLPF]
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    0.983842] battery: ACPI: Battery Slot [BAT0] (battery present)
+/var/log/kern.log:Nov  2 23:47:11 daniel-VirtualBox kernel: [    1.289003] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.000000] BIOS-e820: [mem 0x00000000dfff0000-0x00000000dfffffff] ACPI data
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091522] ACPI: Early table checksum verification disabled
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091526] ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091530] ACPI: XSDT 0x00000000DFFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091535] ACPI: FACP 0x00000000DFFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091541] ACPI: DSDT 0x00000000DFFF0470 002325 (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091544] ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091547] ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091550] ACPI: APIC 0x00000000DFFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091554] ACPI: SSDT 0x00000000DFFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091563] ACPI: Local APIC address 0xfee00000
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.185745] ACPI: PM-Timer IO Port: 0x4008
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.185748] ACPI: Local APIC address 0xfee00000
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.185805] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.185807] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.185808] ACPI: IRQ0 used by override.
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.185809] ACPI: IRQ9 used by override.
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.185812] Using ACPI (MADT) for SMP configuration information
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.276843] ACPI: Core revision 20190816
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.398548] ACPI: bus type PCI registered
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.398549] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.400679] ACPI: Added _OSI(Module Device)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.400679] ACPI: Added _OSI(Processor Device)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.400680] ACPI: Added _OSI(3.0 _SCP Extensions)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.400680] ACPI: Added _OSI(Processor Aggregator Device)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.400681] ACPI: Added _OSI(Linux-Dell-Video)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.400682] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.400683] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.403098] ACPI: 2 ACPI AML tables successfully acquired and loaded
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.404776] ACPI: Interpreter enabled
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.404784] ACPI: (supports S0 S5)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.404785] ACPI: Using IOAPIC for interrupt routing
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.405022] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.405134] ACPI: Enabled 2 GPEs in block 00 to 07
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.410490] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.455680] pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.463615] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.463947] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.464062] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.464177] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.466360] ACPI: bus type USB registered
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.469418] PCI: Using ACPI for IRQ routing
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.494652] pnp: PnP ACPI init
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.494714] pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.494789] pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.495606] pnp: PnP ACPI: found 2 devices
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.970237] ACPI: AC Adapter [AC] (on-line)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.970315] ACPI: Power Button [PWRF]
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.970401] ACPI: Sleep Button [SLPF]
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.971325] battery: ACPI: Battery Slot [BAT0] (battery present)
+/var/log/kern.log:Nov  3 00:19:23 daniel-VirtualBox kernel: [    1.268281] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.000000] BIOS-e820: [mem 0x00000000dfff0000-0x00000000dfffffff] ACPI data
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.093900] ACPI: Early table checksum verification disabled
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.093904] ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.093908] ACPI: XSDT 0x00000000DFFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.093913] ACPI: FACP 0x00000000DFFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.093919] ACPI: DSDT 0x00000000DFFF0470 002325 (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.093923] ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.093926] ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.093929] ACPI: APIC 0x00000000DFFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.093932] ACPI: SSDT 0x00000000DFFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.093942] ACPI: Local APIC address 0xfee00000
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.192958] ACPI: PM-Timer IO Port: 0x4008
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.192961] ACPI: Local APIC address 0xfee00000
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.193019] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.193021] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.193023] ACPI: IRQ0 used by override.
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.193024] ACPI: IRQ9 used by override.
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.193026] Using ACPI (MADT) for SMP configuration information
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.287448] ACPI: Core revision 20190816
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.409027] ACPI: bus type PCI registered
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.409029] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.411152] ACPI: Added _OSI(Module Device)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.411153] ACPI: Added _OSI(Processor Device)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.411153] ACPI: Added _OSI(3.0 _SCP Extensions)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.411154] ACPI: Added _OSI(Processor Aggregator Device)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.411154] ACPI: Added _OSI(Linux-Dell-Video)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.411155] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.411156] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.413803] ACPI: 2 ACPI AML tables successfully acquired and loaded
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.415439] ACPI: Interpreter enabled
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.415448] ACPI: (supports S0 S5)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.415449] ACPI: Using IOAPIC for interrupt routing
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.415723] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.415852] ACPI: Enabled 2 GPEs in block 00 to 07
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.421197] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.466323] pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.474298] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.474622] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.474735] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.474847] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.475413] ACPI: bus type USB registered
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.477083] PCI: Using ACPI for IRQ routing
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.496879] pnp: PnP ACPI init
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.496941] pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.497016] pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.497811] pnp: PnP ACPI: found 2 devices
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.979875] ACPI: AC Adapter [AC] (on-line)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.979935] ACPI: Power Button [PWRF]
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.980029] ACPI: Sleep Button [SLPF]
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    0.981003] battery: ACPI: Battery Slot [BAT0] (battery present)
+/var/log/kern.log:Nov  3 11:24:19 daniel-VirtualBox kernel: [    1.278070] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.000000] BIOS-e820: [mem 0x00000000dfff0000-0x00000000dfffffff] ACPI data
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.092976] ACPI: Early table checksum verification disabled
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.092980] ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.092984] ACPI: XSDT 0x00000000DFFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.092990] ACPI: FACP 0x00000000DFFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.092995] ACPI: DSDT 0x00000000DFFF0470 002325 (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.092999] ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.093001] ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.093004] ACPI: APIC 0x00000000DFFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.093008] ACPI: SSDT 0x00000000DFFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.093017] ACPI: Local APIC address 0xfee00000
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.187091] ACPI: PM-Timer IO Port: 0x4008
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.187094] ACPI: Local APIC address 0xfee00000
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.187151] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.187153] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.187155] ACPI: IRQ0 used by override.
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.187156] ACPI: IRQ9 used by override.
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.187158] Using ACPI (MADT) for SMP configuration information
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.278267] ACPI: Core revision 20190816
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.400001] ACPI: bus type PCI registered
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.400002] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.402258] ACPI: Added _OSI(Module Device)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.402258] ACPI: Added _OSI(Processor Device)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.402259] ACPI: Added _OSI(3.0 _SCP Extensions)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.402259] ACPI: Added _OSI(Processor Aggregator Device)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.402260] ACPI: Added _OSI(Linux-Dell-Video)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.402261] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.402262] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.404651] ACPI: 2 ACPI AML tables successfully acquired and loaded
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.406424] ACPI: Interpreter enabled
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.406433] ACPI: (supports S0 S5)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.406434] ACPI: Using IOAPIC for interrupt routing
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.406670] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.406782] ACPI: Enabled 2 GPEs in block 00 to 07
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.412316] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.458553] pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.467581] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.467887] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.468001] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.468113] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.468617] ACPI: bus type USB registered
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.471600] PCI: Using ACPI for IRQ routing
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.491738] pnp: PnP ACPI init
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.491802] pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.491878] pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.492732] pnp: PnP ACPI: found 2 devices
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.993840] ACPI: AC Adapter [AC] (on-line)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.993913] ACPI: Power Button [PWRF]
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.993991] ACPI: Sleep Button [SLPF]
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    0.995329] battery: ACPI: Battery Slot [BAT0] (battery present)
+/var/log/kern.log:Nov  4 11:09:49 daniel-VirtualBox kernel: [    1.297188] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+/var/log/dmesg:[    0.000000] kernel: BIOS-e820: [mem 0x00000000dfff0000-0x00000000dfffffff] ACPI data
+/var/log/dmesg:[    0.092976] kernel: ACPI: Early table checksum verification disabled
+/var/log/dmesg:[    0.092980] kernel: ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+/var/log/dmesg:[    0.092984] kernel: ACPI: XSDT 0x00000000DFFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+/var/log/dmesg:[    0.092990] kernel: ACPI: FACP 0x00000000DFFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+/var/log/dmesg:[    0.092995] kernel: ACPI: DSDT 0x00000000DFFF0470 002325 (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+/var/log/dmesg:[    0.092999] kernel: ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/dmesg:[    0.093001] kernel: ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/dmesg:[    0.093004] kernel: ACPI: APIC 0x00000000DFFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+/var/log/dmesg:[    0.093008] kernel: ACPI: SSDT 0x00000000DFFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+/var/log/dmesg:[    0.093017] kernel: ACPI: Local APIC address 0xfee00000
+/var/log/dmesg:[    0.187091] kernel: ACPI: PM-Timer IO Port: 0x4008
+/var/log/dmesg:[    0.187094] kernel: ACPI: Local APIC address 0xfee00000
+/var/log/dmesg:[    0.187151] kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+/var/log/dmesg:[    0.187153] kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+/var/log/dmesg:[    0.187155] kernel: ACPI: IRQ0 used by override.
+/var/log/dmesg:[    0.187156] kernel: ACPI: IRQ9 used by override.
+/var/log/dmesg:[    0.187158] kernel: Using ACPI (MADT) for SMP configuration information
+/var/log/dmesg:[    0.278267] kernel: ACPI: Core revision 20190816
+/var/log/dmesg:[    0.400001] kernel: ACPI: bus type PCI registered
+/var/log/dmesg:[    0.400002] kernel: acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+/var/log/dmesg:[    0.402258] kernel: ACPI: Added _OSI(Module Device)
+/var/log/dmesg:[    0.402258] kernel: ACPI: Added _OSI(Processor Device)
+/var/log/dmesg:[    0.402259] kernel: ACPI: Added _OSI(3.0 _SCP Extensions)
+/var/log/dmesg:[    0.402259] kernel: ACPI: Added _OSI(Processor Aggregator Device)
+/var/log/dmesg:[    0.402260] kernel: ACPI: Added _OSI(Linux-Dell-Video)
+/var/log/dmesg:[    0.402261] kernel: ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+/var/log/dmesg:[    0.402262] kernel: ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+/var/log/dmesg:[    0.404651] kernel: ACPI: 2 ACPI AML tables successfully acquired and loaded
+/var/log/dmesg:[    0.406424] kernel: ACPI: Interpreter enabled
+/var/log/dmesg:[    0.406433] kernel: ACPI: (supports S0 S5)
+/var/log/dmesg:[    0.406434] kernel: ACPI: Using IOAPIC for interrupt routing
+/var/log/dmesg:[    0.406670] kernel: PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+/var/log/dmesg:[    0.406782] kernel: ACPI: Enabled 2 GPEs in block 00 to 07
+/var/log/dmesg:[    0.412316] kernel: ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+/var/log/dmesg:[    0.458553] kernel: pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+/var/log/dmesg:[    0.467581] kernel: ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+/var/log/dmesg:[    0.467887] kernel: ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+/var/log/dmesg:[    0.468001] kernel: ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+/var/log/dmesg:[    0.468113] kernel: ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+/var/log/dmesg:[    0.468617] kernel: ACPI: bus type USB registered
+/var/log/dmesg:[    0.471600] kernel: PCI: Using ACPI for IRQ routing
+/var/log/dmesg:[    0.491738] kernel: pnp: PnP ACPI init
+/var/log/dmesg:[    0.491802] kernel: pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+/var/log/dmesg:[    0.491878] kernel: pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+/var/log/dmesg:[    0.492732] kernel: pnp: PnP ACPI: found 2 devices
+/var/log/dmesg:[    0.993840] kernel: ACPI: AC Adapter [AC] (on-line)
+/var/log/dmesg:[    0.993913] kernel: ACPI: Power Button [PWRF]
+/var/log/dmesg:[    0.993991] kernel: ACPI: Sleep Button [SLPF]
+/var/log/dmesg:[    0.995329] kernel: battery: ACPI: Battery Slot [BAT0] (battery present)
+/var/log/dmesg:[    1.297188] kernel: ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Binary file /var/log/journal/dafd9a61376b4676aa8b190bc1ed4b43/system@0005cfd53c3ba62f-f52b7c0f21967e20.journal~ matches
+Binary file /var/log/journal/dafd9a61376b4676aa8b190bc1ed4b43/system@0005cf8eedd6ec85-a3f36e193fa085ea.journal~ matches
+Binary file /var/log/journal/dafd9a61376b4676aa8b190bc1ed4b43/system@0005cfdef964aab5-d3ad77bfed25c2b1.journal~ matches
+Binary file /var/log/journal/dafd9a61376b4676aa8b190bc1ed4b43/system@0005cea23c7c8f97-f5c8cae0054cddf8.journal~ matches
+Binary file /var/log/journal/dafd9a61376b4676aa8b190bc1ed4b43/system.journal matches
+Binary file /var/log/journal/dafd9a61376b4676aa8b190bc1ed4b43/system@0005ced8d9f1b5b3-3954097ddf4c434f.journal~ matches
+Binary file /var/log/journal/dafd9a61376b4676aa8b190bc1ed4b43/system@0005cfd5af61794d-0571745d6161761c.journal~ matches
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.000000] BIOS-e820: [mem 0x00000000dfff0000-0x00000000dfffffff] ACPI data
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091522] ACPI: Early table checksum verification disabled
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091526] ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091530] ACPI: XSDT 0x00000000DFFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091535] ACPI: FACP 0x00000000DFFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091541] ACPI: DSDT 0x00000000DFFF0470 002325 (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091544] ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091547] ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091550] ACPI: APIC 0x00000000DFFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091554] ACPI: SSDT 0x00000000DFFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.091563] ACPI: Local APIC address 0xfee00000
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.185745] ACPI: PM-Timer IO Port: 0x4008
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.185748] ACPI: Local APIC address 0xfee00000
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.185805] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.185807] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.185808] ACPI: IRQ0 used by override.
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.185809] ACPI: IRQ9 used by override.
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.185812] Using ACPI (MADT) for SMP configuration information
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.276843] ACPI: Core revision 20190816
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.398548] ACPI: bus type PCI registered
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.398549] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.400679] ACPI: Added _OSI(Module Device)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.400679] ACPI: Added _OSI(Processor Device)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.400680] ACPI: Added _OSI(3.0 _SCP Extensions)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.400680] ACPI: Added _OSI(Processor Aggregator Device)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.400681] ACPI: Added _OSI(Linux-Dell-Video)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.400682] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.400683] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.403098] ACPI: 2 ACPI AML tables successfully acquired and loaded
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.404776] ACPI: Interpreter enabled
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.404784] ACPI: (supports S0 S5)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.404785] ACPI: Using IOAPIC for interrupt routing
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.405022] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.405134] ACPI: Enabled 2 GPEs in block 00 to 07
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.410490] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.455680] pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.463615] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.463947] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.464062] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.464177] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.466360] ACPI: bus type USB registered
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.469418] PCI: Using ACPI for IRQ routing
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.494652] pnp: PnP ACPI init
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.494714] pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.494789] pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.495606] pnp: PnP ACPI: found 2 devices
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.970237] ACPI: AC Adapter [AC] (on-line)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.970315] ACPI: Power Button [PWRF]
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.970401] ACPI: Sleep Button [SLPF]
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    0.971325] battery: ACPI: Battery Slot [BAT0] (battery present)
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox systemd[1]: Started ACPI Events Check.
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox systemd[1]: Listening on ACPID Listen Socket.
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox systemd[1]: Started ACPI event daemon.
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox sensors[484]: Adapter: ACPI interface
+/var/log/syslog.1:Nov  3 00:19:23 daniel-VirtualBox kernel: [    1.268281] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Binary file /var/log/syslog.1 matches
+/var/log/dmesg.0:[    0.000000] kernel: BIOS-e820: [mem 0x00000000dfff0000-0x00000000dfffffff] ACPI data
+/var/log/dmesg.0:[    0.093900] kernel: ACPI: Early table checksum verification disabled
+/var/log/dmesg.0:[    0.093904] kernel: ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+/var/log/dmesg.0:[    0.093908] kernel: ACPI: XSDT 0x00000000DFFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+/var/log/dmesg.0:[    0.093913] kernel: ACPI: FACP 0x00000000DFFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+/var/log/dmesg.0:[    0.093919] kernel: ACPI: DSDT 0x00000000DFFF0470 002325 (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+/var/log/dmesg.0:[    0.093923] kernel: ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/dmesg.0:[    0.093926] kernel: ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/dmesg.0:[    0.093929] kernel: ACPI: APIC 0x00000000DFFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+/var/log/dmesg.0:[    0.093932] kernel: ACPI: SSDT 0x00000000DFFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+/var/log/dmesg.0:[    0.093942] kernel: ACPI: Local APIC address 0xfee00000
+/var/log/dmesg.0:[    0.192958] kernel: ACPI: PM-Timer IO Port: 0x4008
+/var/log/dmesg.0:[    0.192961] kernel: ACPI: Local APIC address 0xfee00000
+/var/log/dmesg.0:[    0.193019] kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+/var/log/dmesg.0:[    0.193021] kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+/var/log/dmesg.0:[    0.193023] kernel: ACPI: IRQ0 used by override.
+/var/log/dmesg.0:[    0.193024] kernel: ACPI: IRQ9 used by override.
+/var/log/dmesg.0:[    0.193026] kernel: Using ACPI (MADT) for SMP configuration information
+/var/log/dmesg.0:[    0.287448] kernel: ACPI: Core revision 20190816
+/var/log/dmesg.0:[    0.409027] kernel: ACPI: bus type PCI registered
+/var/log/dmesg.0:[    0.409029] kernel: acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+/var/log/dmesg.0:[    0.411152] kernel: ACPI: Added _OSI(Module Device)
+/var/log/dmesg.0:[    0.411153] kernel: ACPI: Added _OSI(Processor Device)
+/var/log/dmesg.0:[    0.411153] kernel: ACPI: Added _OSI(3.0 _SCP Extensions)
+/var/log/dmesg.0:[    0.411154] kernel: ACPI: Added _OSI(Processor Aggregator Device)
+/var/log/dmesg.0:[    0.411154] kernel: ACPI: Added _OSI(Linux-Dell-Video)
+/var/log/dmesg.0:[    0.411155] kernel: ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+/var/log/dmesg.0:[    0.411156] kernel: ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+/var/log/dmesg.0:[    0.413803] kernel: ACPI: 2 ACPI AML tables successfully acquired and loaded
+/var/log/dmesg.0:[    0.415439] kernel: ACPI: Interpreter enabled
+/var/log/dmesg.0:[    0.415448] kernel: ACPI: (supports S0 S5)
+/var/log/dmesg.0:[    0.415449] kernel: ACPI: Using IOAPIC for interrupt routing
+/var/log/dmesg.0:[    0.415723] kernel: PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+/var/log/dmesg.0:[    0.415852] kernel: ACPI: Enabled 2 GPEs in block 00 to 07
+/var/log/dmesg.0:[    0.421197] kernel: ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+/var/log/dmesg.0:[    0.466323] kernel: pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+/var/log/dmesg.0:[    0.474298] kernel: ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+/var/log/dmesg.0:[    0.474622] kernel: ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+/var/log/dmesg.0:[    0.474735] kernel: ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+/var/log/dmesg.0:[    0.474847] kernel: ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+/var/log/dmesg.0:[    0.475413] kernel: ACPI: bus type USB registered
+/var/log/dmesg.0:[    0.477083] kernel: PCI: Using ACPI for IRQ routing
+/var/log/dmesg.0:[    0.496879] kernel: pnp: PnP ACPI init
+/var/log/dmesg.0:[    0.496941] kernel: pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+/var/log/dmesg.0:[    0.497016] kernel: pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+/var/log/dmesg.0:[    0.497811] kernel: pnp: PnP ACPI: found 2 devices
+/var/log/dmesg.0:[    0.979875] kernel: ACPI: AC Adapter [AC] (on-line)
+/var/log/dmesg.0:[    0.979935] kernel: ACPI: Power Button [PWRF]
+/var/log/dmesg.0:[    0.980029] kernel: ACPI: Sleep Button [SLPF]
+/var/log/dmesg.0:[    0.981003] kernel: battery: ACPI: Battery Slot [BAT0] (battery present)
+/var/log/dmesg.0:[    1.278070] kernel: ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.000000] BIOS-e820: [mem 0x00000000dfff0000-0x00000000dfffffff] ACPI data
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.096076] ACPI: Early table checksum verification disabled
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.096087] ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.096092] ACPI: XSDT 0x00000000DFFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.096100] ACPI: FACP 0x00000000DFFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.096107] ACPI: DSDT 0x00000000DFFF0470 002325 (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.096110] ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.096114] ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.096117] ACPI: APIC 0x00000000DFFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.096120] ACPI: SSDT 0x00000000DFFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.096134] ACPI: Local APIC address 0xfee00000
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.195433] ACPI: PM-Timer IO Port: 0x4008
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.195436] ACPI: Local APIC address 0xfee00000
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.195495] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.195497] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.195498] ACPI: IRQ0 used by override.
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.195499] ACPI: IRQ9 used by override.
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.195502] Using ACPI (MADT) for SMP configuration information
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.289708] ACPI: Core revision 20190816
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.412754] ACPI: bus type PCI registered
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.412755] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.416450] ACPI: Added _OSI(Module Device)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.416450] ACPI: Added _OSI(Processor Device)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.416451] ACPI: Added _OSI(3.0 _SCP Extensions)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.416451] ACPI: Added _OSI(Processor Aggregator Device)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.416452] ACPI: Added _OSI(Linux-Dell-Video)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.416453] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.416454] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.418854] ACPI: 2 ACPI AML tables successfully acquired and loaded
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.420559] ACPI: Interpreter enabled
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.420568] ACPI: (supports S0 S5)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.420569] ACPI: Using IOAPIC for interrupt routing
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.420810] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.420936] ACPI: Enabled 2 GPEs in block 00 to 07
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.426287] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.479673] pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.489881] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.490316] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.490445] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.490561] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.491098] ACPI: bus type USB registered
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.493774] PCI: Using ACPI for IRQ routing
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.510645] pnp: PnP ACPI init
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.510708] pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.510771] pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.511613] pnp: PnP ACPI: found 2 devices
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.990178] ACPI: AC Adapter [AC] (on-line)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.990237] ACPI: Power Button [PWRF]
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.990314] ACPI: Sleep Button [SLPF]
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    0.991256] battery: ACPI: Battery Slot [BAT0] (battery present)
+/var/log/kern.log.1:Oct 30 12:54:28 daniel-VirtualBox kernel: [    1.296287] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.000000] BIOS-e820: [mem 0x00000000dfff0000-0x00000000dfffffff] ACPI data
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.169870] ACPI: Early table checksum verification disabled
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.169876] ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.169883] ACPI: XSDT 0x00000000DFFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.169889] ACPI: FACP 0x00000000DFFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.169897] ACPI: DSDT 0x00000000DFFF0470 002325 (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.169903] ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.169908] ACPI: FACS 0x00000000DFFF0200 000040
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.169914] ACPI: APIC 0x00000000DFFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.169918] ACPI: SSDT 0x00000000DFFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.170021] ACPI: Local APIC address 0xfee00000
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.295551] ACPI: PM-Timer IO Port: 0x4008
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.295554] ACPI: Local APIC address 0xfee00000
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.295619] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.295620] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.295622] ACPI: IRQ0 used by override.
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.295623] ACPI: IRQ9 used by override.
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.295625] Using ACPI (MADT) for SMP configuration information
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.414507] ACPI: Core revision 20190816
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.542653] ACPI: bus type PCI registered
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.542655] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.545491] ACPI: Added _OSI(Module Device)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.545491] ACPI: Added _OSI(Processor Device)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.545492] ACPI: Added _OSI(3.0 _SCP Extensions)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.545493] ACPI: Added _OSI(Processor Aggregator Device)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.545494] ACPI: Added _OSI(Linux-Dell-Video)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.545494] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.545495] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.548351] ACPI: 2 ACPI AML tables successfully acquired and loaded
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.550377] ACPI: Interpreter enabled
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.550388] ACPI: (supports S0 S5)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.550389] ACPI: Using IOAPIC for interrupt routing
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.550706] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.550851] ACPI: Enabled 2 GPEs in block 00 to 07
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.556732] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.630387] pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.638539] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.638963] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.639112] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.639232] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.639801] ACPI: bus type USB registered
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.641385] PCI: Using ACPI for IRQ routing
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.668340] pnp: PnP ACPI init
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.668445] pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.668530] pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    0.669661] pnp: PnP ACPI: found 2 devices
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    1.204719] ACPI: AC Adapter [AC] (on-line)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    1.204786] ACPI: Power Button [PWRF]
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    1.204860] ACPI: Sleep Button [SLPF]
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    1.205845] battery: ACPI: Battery Slot [BAT0] (battery present)
+/var/log/kern.log.1:Nov  2 22:27:24 daniel-VirtualBox kernel: [    1.527224] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)

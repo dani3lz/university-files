@@ -1,0 +1,6 @@
+4
+1+1 2011 5 Erik Omar 3000000 15 20
+2012 2009 1 Ronald John 2500000 11 10
+Joker 2019 7 Todd Fenix 10000000 22 20
+Venom 2018 8 Ruben Tom 10000000 23 45
+
